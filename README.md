@@ -1,6 +1,6 @@
 # Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation
 
-[**Paper**](https://liuff19.github.io/Make-Your-3D) | [**Project Page**](https://liuff19.github.io/Make-Your-3D//) | [**Video**](https://liuff19.github.io/Make-Your-3D/)
+[**Paper**](https://arxiv.org/abs/2403.09625) | [**Project Page**](https://liuff19.github.io/Make-Your-3D//) | [**Video**](https://liuff19.github.io/Make-Your-3D/)
 
 Official implementation of Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation
 
@@ -31,11 +31,11 @@ Visual results of Make-Your-3D on different subjects with customized text inputs
 ## BibTeX
 
 ```bibtex
-@misc{liu2024,
+@misc{liu2024makeyour3d,
       title={Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation}, 
       author={Fangfu Liu and Hanyang Wang and Weiliang Chen and Haowen Sun and Yueqi Duan},
       year={2024},
-      eprint={2403},
+      eprint={2403.09625},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
